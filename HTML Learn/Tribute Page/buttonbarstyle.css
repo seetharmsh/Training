@@ -1,0 +1,44 @@
+.maindivision
+{
+    background-color: azure;
+    width:25%;
+}
+.button
+{
+    position:fixed;
+    size:10px;
+}
+.heading
+{
+    text-align: center;
+}
+.dropdown
+{
+    text-align: center;
+}
+.arrangement
+{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    margin: auto;
+    text-align: center;
+}
+.runbutton
+{
+    font-size: 10px;
+    width:150px;
+    height:20px;
+    margin:18px;
+}
+.testbutton
+{
+    font-size: 10px;
+    width:150px;
+    height:20px;
+    margin:10px
+}
+.tests
+{
+    text-align: left;
+}

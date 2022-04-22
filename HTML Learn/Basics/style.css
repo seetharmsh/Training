@@ -1,0 +1,48 @@
+.div1 {
+    background-color: DodgerBlue;
+    margin: auto;
+    width: 60%;
+    display: flex;
+}
+
+.div2 {
+    color:white;
+    align-items: center;
+    background-color: dimgray;
+    margin: auto;
+    width: 60%;
+    display: flex;
+}
+
+.gridcontainer {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    margin: auto;
+    width: 60%;
+
+}
+
+hr {
+    border: 1px solid dodgerblue;
+}
+
+.name {
+    font-size: 25px;
+    margin-bottom: -7px;
+    margin-top: 41px;
+    color: white;
+}
+.margin
+{
+    padding:20px !important;
+}
+ .align
+ {
+     padding:8px;
+ }
+
+ .spacing
+ {
+     margin-left:15px;
+ }
